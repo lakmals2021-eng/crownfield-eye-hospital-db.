@@ -3,7 +3,7 @@
 Individual repository for the fictional Crownfield Eye Hospital ophthalmology database.
 Fictional teaching scenario only; all data is synthetic.
 
-**Student:** [Your name] | **Student ID:** [Your ID] | **Module:** CPU4103 Introduction to Databases
+**Student:** SUchithra Lakmal Andrahannadi | **Student ID:** G276481 | **Module:** CPU4103 Introduction to Databases
 
 ## Requirements
 - MySQL 8.0.16 or later (needed for enforced CHECK constraints, roles and SIGNAL)
