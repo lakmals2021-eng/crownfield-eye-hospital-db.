@@ -50,7 +50,7 @@ and the view `v_patient_appointments`.
 - All names, dates and clinical details are synthetic.
 
 ## My individual contribution
-[Write 3 to 5 sentences: which parts you designed and wrote yourself (for example Part C queries C1 to C6, Part D security and transactions), and which parts were shared group work (schema and data).]
+I wrote and tested all six individual queries in Part C: GROUP BY with HAVING, INNER JOIN, LEFT JOIN, a subquery, a stored procedure and a trigger. I also wrote and tested all of Part D, which covers four roles with privileges, salted password hashing, a transaction with ROLLBACK, and a SQL injection demonstration. The schema and sample data were shared group work, which I ran, tested and explained in my report. I created this repository and kept the SQL files in the required run order.
 
 ## Evidence
 Screenshots are included in the report and slides: row counts, integrity errors (1452, 3819, 1062), queries C1 to C6, role grants, hashing, transaction rollback and SQL injection test.
